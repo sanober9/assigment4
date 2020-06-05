@@ -1,0 +1,342 @@
+
+/* .navbar{
+    background-color:blue ;
+} */
+/* .navbar{
+    background-color: royalblue !important;
+} */
+.abc{
+    width:140px ;
+    height: 60px;
+}
+ .img-fluid{
+    width: 100%;
+    height: auto;
+    
+    
+} 
+.nav-link{ 
+    color: rgb(107, 100, 100)!important;
+    font-style: bold !important;
+}
+
+    
+
+.text{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+    font-style: bold;
+    color:rgba(0, 0, 0, 0.74);
+
+}
+.card-title{
+   
+}
+/* .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.focolor {
+    background-color:whitesmoke;
+    color: rgb(190, 189, 189);
+}
+ .row {
+    
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.topm {
+    margin-top: 50px;
+}
+.coloho {
+    padding-top: 60px;
+    font-size: 12px;
+    padding-right: 100px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.boradar {
+    margin-bottom: 0px;
+    margin-left: 10px;
+    font-size: 18px;
+    line-height: 1.2;
+    margin-left:20px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+i {
+    color: rgb(190, 189, 189);
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+
+.highlight1 {
+    margin-left: 50px;
+    padding-top: 5px;
+    color: rgb(190, 189, 189);
+}
+.highlight2{
+    padding-top: 30px;
+   
+}
+h5{
+
+    font-size: 18px;
+    line-height: 1.2;
+    margin-left:100px;
+    padding-top: 25px;
+}
+.colorblue {
+    color: green;
+}
+
+.colorgray {
+    color: gray;
+}
+
+.highlight2 {
+    margin-left: 0px;
+    padding-top: 25px;
+    color: rgb(190, 189, 189);
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    
+}
+.top-inner{
+    margin-top: 20px;
+} */
+/* .btn{
+    justify-content: center;
+    margin-left: 40%;
+    margin-top:30px ;
+    font-family: sans-serif; 
+} */
+/* .join,.small{
+    text-align: center;
+    
+    color: white;
+} */
+/* .join{
+    margin-top: 50px;
+}
+
+
+.input-group{
+    max-width: 30%;
+    margin-bottom: 50px;
+     padding-top: 50px;
+    margin-top:80px ;
+}
+
+
+.btn1{
+    margin-top: 5px;
+    margin-left: 10px;
+} */
+.crush{
+    margin-top: -5px !important;
+}
+.crush,.scope span{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    color: #fff !important;
+}
+.scope1 p{
+    color: #fff;
+    text-align: center;
+    margin-top: 5px;
+}
+footer{
+	position: fixed;
+	bottom: 0;
+}
+ 
+@media (max-height:800px){
+	footer { position: static; }
+	header { padding-top:40px; }
+}
+ 
+ 
+.footer-distributed{
+	background-color:#CAC6C5;
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 50px 50px 60px 50px;
+	margin-top: 80px;
+}
+ 
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+ 
+/* Footer left */
+ 
+.footer-distributed .footer-left{
+	width: 30%;
+}
+ 
+.footer-distributed h3{
+	color:  #777574;
+	font: normal 36px 'Cookie', cursive;
+	margin: 0;
+}
+ 
+/* The company logo */
+ 
+.footer-distributed .footer-left img{
+	width: 30%;
+}
+ 
+.footer-distributed h3 span{
+	color:  #e0ac1c;
+}
+ 
+/* Footer links */
+ 
+.footer-distributed .footer-links{
+	color:  #777574;
+	margin: 20px 0 12px;
+}
+ 
+.footer-distributed .footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+}
+ 
+.footer-distributed .footer-company-name{
+	color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+ 
+/* Footer Center */
+ 
+.footer-distributed .footer-center{
+	width: 35%;
+}
+ 
+ 
+.footer-distributed .footer-center i{
+	background-color:  #33383b;
+	color: white;
+	font-size: 25px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 10px 15px;
+	vertical-align: middle;
+}
+ 
+.footer-distributed .footer-center i.fa-envelope{
+	font-size: 17px;
+	line-height: 38px;
+}
+ 
+.footer-distributed .footer-center p{
+	display: inline-block;
+	color: #777574;
+	vertical-align: middle;
+	margin:0;
+}
+ 
+.footer-distributed .footer-center p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+ 
+.footer-distributed .footer-center p a{
+	color:  #e0ac1c;
+	text-decoration: none;;
+}
+ 
+ 
+/* Footer Right */
+ 
+.footer-distributed .footer-right{
+	width: 30%;
+}
+ 
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
+ 
+.footer-distributed .footer-company-about span{
+	display: block;
+	color:  #777574;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+ 
+.footer-distributed .footer-icons{
+	margin-top: 25px;
+}
+ 
+.footer-distributed .footer-icons a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+ 
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+ 
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+ 
+/* Here is the code for Responsive Footer */
+/* You can remove below code if you don't want Footer to be responsive */
+ 
+ 
+@media (max-width: 880px) {
+ 
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+ 
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+ 
+}
